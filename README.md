@@ -3,7 +3,7 @@ This repository contains various Excel files demonstrating essential Excel formu
 
 📂 Files and Descriptions
 
-#Formula Excel Template.xlsx
+##Formula Excel Template.xlsx##
 
 Covers fundamental Excel functions, including:
 Min-Max, IF-IFS, LEN, LEFT-RIGHT
