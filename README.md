@@ -2,7 +2,8 @@ Excel Tutorials 📊
 This repository contains various Excel files demonstrating essential Excel formulas, functions, pivot tables, conditional formatting, XLOOKUP, and charts. Each file covers different Excel concepts to help improve data analysis skills.
 
 📂 Files and Descriptions
-Formula Excel Template.xlsx
+
+#Formula Excel Template.xlsx
 
 Covers fundamental Excel functions, including:
 Min-Max, IF-IFS, LEN, LEFT-RIGHT
@@ -12,7 +13,7 @@ Concatenate, DAYS, NETWORKDAYS
 sales.xlsx
 
 Used for Pivot Table demonstrations.
-XLOOKUP Excel.xlsx
+#XLOOKUP Excel.xlsx
 
 Covers different use cases of XLOOKUP and VLOOKUP, including:
 XLOOKUP Multiple Rows
