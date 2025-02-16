@@ -13,7 +13,7 @@ Concatenate, DAYS, NETWORKDAYS
 ### sales.xlsx
 
 Used for Pivot Table demonstrations.
--------XLOOKUP Excel.xlsx
+### XLOOKUP Excel.xlsx
 
 Covers different use cases of XLOOKUP and VLOOKUP, including:
 XLOOKUP Multiple Rows
@@ -22,10 +22,10 @@ XLOOKUP Search Order
 XLOOKUP Horizontal Lookup
 XLOOKUP with SUM
 Comparison with VLOOKUP
--------Conditional Formatting.xlsx
+### Conditional Formatting.xlsx
 
 Demonstrates how to apply conditional formatting to highlight data dynamically.
--------Chart Excel.xlsx
+### Chart Excel.xlsx
 
 Showcases different types of Excel charts for data visualization.
 
